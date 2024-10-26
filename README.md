@@ -1,4 +1,4 @@
-# docker-desktop-opensuse-gimp-graphics
+# dev-docker-desktop-opensuse-gimp-graphics
 
 ## Description
 This is a POC project to demonstrate gimp a graphics application.
